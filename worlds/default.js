@@ -20,7 +20,11 @@ export function init(Constants) {
     */
 
   Constants.UserBehaviorDirectory = "behaviors/default";
-  Constants.UserBehaviorModules = ["lights.js", "footballMove.js"];
+  Constants.UserBehaviorModules = [
+    "lights.js",
+    "footballMove.js",
+    "AuthService.js",
+  ];
 
   Constants.DefaultCards = [
     {
@@ -32,6 +36,7 @@ export function init(Constants) {
         shadow: true,
         translation: [0, -1.7, 0],
         placeholder: true,
+        behaviorModules: ["AUTH"],
         placeholderSize: [400, 0.1, 400],
         placeholderColor: 0xe0e0e0,
         placeholderOffset: [0, 0, 0],
