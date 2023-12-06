@@ -1,0 +1,12 @@
+D:\Assignment\Beamable\Beamablefootboll\services\footboll\bin\Debug\net6.0\footboll.deps.json
+D:\Assignment\Beamable\Beamablefootboll\services\footboll\bin\Debug\net6.0\footboll.dll
+D:\Assignment\Beamable\Beamablefootboll\services\footboll\bin\Debug\net6.0\footboll.pdb
+D:\Assignment\Beamable\Beamablefootboll\services\footboll\obj\Debug\net6.0\footboll.csproj.AssemblyReference.cache
+D:\Assignment\Beamable\Beamablefootboll\services\footboll\obj\Debug\net6.0\footboll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\Beamable\Beamablefootboll\services\footboll\obj\Debug\net6.0\footboll.AssemblyInfoInputs.cache
+D:\Assignment\Beamable\Beamablefootboll\services\footboll\obj\Debug\net6.0\footboll.AssemblyInfo.cs
+D:\Assignment\Beamable\Beamablefootboll\services\footboll\obj\Debug\net6.0\footboll.csproj.CoreCompileInputs.cache
+D:\Assignment\Beamable\Beamablefootboll\services\footboll\obj\Debug\net6.0\footboll.dll
+D:\Assignment\Beamable\Beamablefootboll\services\footboll\obj\Debug\net6.0\refint\footboll.dll
+D:\Assignment\Beamable\Beamablefootboll\services\footboll\obj\Debug\net6.0\footboll.pdb
+D:\Assignment\Beamable\Beamablefootboll\services\footboll\obj\Debug\net6.0\ref\footboll.dll

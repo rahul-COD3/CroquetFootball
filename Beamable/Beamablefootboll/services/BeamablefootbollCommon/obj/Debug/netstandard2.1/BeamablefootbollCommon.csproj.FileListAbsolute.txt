@@ -1,0 +1,16 @@
+D:\Assignment\Beamable\Beamablefootboll\services\BeamablefootbollCommon\bin\Debug\netstandard2.1\BeamablefootbollCommon.deps.json
+D:\Assignment\Beamable\Beamablefootboll\services\BeamablefootbollCommon\bin\Debug\netstandard2.1\BeamablefootbollCommon.dll
+D:\Assignment\Beamable\Beamablefootboll\services\BeamablefootbollCommon\bin\Debug\netstandard2.1\BeamablefootbollCommon.pdb
+D:\Assignment\Beamable\Beamablefootboll\services\BeamablefootbollCommon\bin\Debug\netstandard2.1\BeamablefootbollCommon.xml
+D:\Assignment\Beamable\Beamablefootboll\services\BeamablefootbollCommon\bin\Debug\netstandard2.1\Unity.Beamable.Runtime.Common.dll
+D:\Assignment\Beamable\Beamablefootboll\services\BeamablefootbollCommon\bin\Debug\netstandard2.1\UnityEngine.dll
+D:\Assignment\Beamable\Beamablefootboll\services\BeamablefootbollCommon\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+D:\Assignment\Beamable\Beamablefootboll\services\BeamablefootbollCommon\obj\Debug\netstandard2.1\BeamablefootbollCommon.csproj.AssemblyReference.cache
+D:\Assignment\Beamable\Beamablefootboll\services\BeamablefootbollCommon\obj\Debug\netstandard2.1\BeamablefootbollCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\Beamable\Beamablefootboll\services\BeamablefootbollCommon\obj\Debug\netstandard2.1\BeamablefootbollCommon.AssemblyInfoInputs.cache
+D:\Assignment\Beamable\Beamablefootboll\services\BeamablefootbollCommon\obj\Debug\netstandard2.1\BeamablefootbollCommon.AssemblyInfo.cs
+D:\Assignment\Beamable\Beamablefootboll\services\BeamablefootbollCommon\obj\Debug\netstandard2.1\BeamablefootbollCommon.csproj.CoreCompileInputs.cache
+D:\Assignment\Beamable\Beamablefootboll\services\BeamablefootbollCommon\obj\Debug\netstandard2.1\BeamablefootbollCommon.csproj.CopyComplete
+D:\Assignment\Beamable\Beamablefootboll\services\BeamablefootbollCommon\obj\Debug\netstandard2.1\BeamablefootbollCommon.dll
+D:\Assignment\Beamable\Beamablefootboll\services\BeamablefootbollCommon\obj\Debug\netstandard2.1\BeamablefootbollCommon.xml
+D:\Assignment\Beamable\Beamablefootboll\services\BeamablefootbollCommon\obj\Debug\netstandard2.1\BeamablefootbollCommon.pdb

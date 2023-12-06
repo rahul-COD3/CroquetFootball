@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ChfK3zKO0m+H8aT8/0v5FtcYxx+l4eG+Zw67FISHfYcfwS0R2lhhqcxGwuqty97bE3zNQbu9+bBhuqepweR2Jg==",
+  "success": true,
+  "projectFilePath": "D:\\Assignment\\CroquetFootball\\Beamable\\Beamablefootboll\\services\\BeamablefootbollCommon\\BeamablefootbollCommon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\promact\\.nuget\\packages\\beamable.common\\1.19.7\\beamable.common.1.19.7.nupkg.sha512",
+    "C:\\Users\\promact\\.nuget\\packages\\beamable.unityengine\\1.19.7\\beamable.unityengine.1.19.7.nupkg.sha512",
+    "C:\\Users\\promact\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
