@@ -1,34 +1,26 @@
-class AuthService {
-  async setupAuthentication() {
-    await this.authenticateApi();
+import { PawnBehavior } from "../PrototypeBehavior";
+class AuthService extends PawnBehavior {
+  setup() {
+    this.authenticate();
   }
 
-  async authenticateApi() {
-    const authenticationEndpoint = "https://api.beamable.com/basic/auth/token";
-    const authenticationOptions = {
+  authenticate() {
+    const options = {
       method: "POST",
       headers: {
-        Accept: "application/json",
-        "Content-Type": "application/json",
-        "X-DE-SCOPE": "rahulkumar.DE_1691291377650691",
+        accept: "application/json",
+        "content-type": "application/json",
+        "X-DE-SCOPE": "1691291377650688.DE_1691291377650691",
       },
       body: JSON.stringify({ grant_type: "guest" }),
     };
 
-    try {
-      const response = await fetch(
-        authenticationEndpoint,
-        authenticationOptions
-      );
-      const responseData = await response.json();
-      this.storeAccessToken(responseData.access_token);
-    } catch (error) {
-      console.error("Authentication failed:", error);
-    }
-  }
-
-  storeAccessToken(accessToken) {
-    localStorage.setItem("access_token", accessToken);
+    fetch("https://api.beamable.com/basic/auth/token", options)
+      .then((response) => response.json())
+      .then((response) => {
+        localStorage.setItem("access_token", response.access_token);
+      })
+      .catch((err) => console.error(err));
   }
 }
 

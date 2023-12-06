@@ -3,7 +3,14 @@
 // info@croquet.io
 
 export function init(Constants) {
-  Constants.AvatarNames = ["newwhite"];
+  Constants.AvatarNames = [
+    "newwhite",
+    "madhatter",
+    "marchhare",
+    "admin",
+    "cheshirecat",
+    "alice",
+  ];
 
   /* Alternatively, you can specify a card spec for an avatar,
        instead of a string for the partical file name, to create your own avatar.
@@ -24,6 +31,7 @@ export function init(Constants) {
     "lights.js",
     "footballMove.js",
     "AuthService.js",
+    "Score.js",
   ];
 
   Constants.DefaultCards = [
@@ -64,7 +72,7 @@ export function init(Constants) {
         rotation: [0, -0.028453630730114733, 0, 0.9995951134825911],
         layers: ["pointer"],
         name: "football.glb",
-        behaviorModules: ["MoveFootball"],
+        behaviorModules: ["MoveFootball", "Score"],
         dataLocation:
           "3gRlAm-GbBQzHPaO8x_0KVoW1ID3DZ8OqvmdJqoXXMoMDxMTFxRdSEgBDgsCFEkSFEkEFQgWEgITSQ4ISBJIIxYtNg1WAwsQUQEdJlAxHS0iAB0pEzI-LAMXVkgECApJAAoGDgtJFQYPEgsXFQgKBgQTSQoOBBUIEQIVFAJILFY0BC1QHiRKUCwiDxYkUTMwHjgxDSw_CVIzSiMLEzQPLRAyDQULVD4vBEgDBhMGSBVKBCMjExYlNEomVjIsMik3JDMVDAEQNFQ-NhMsCA8eUCUqAxEvCAwvPiI",
         dataScale: [2.132073633812013, 2.132073633812013, 2.132073633812013],
