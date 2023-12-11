@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0VU3ySLbQ3D7pwfAqgtNf23QDKgIwdSn1VYfMrLiT/PX1Va9WNXhWEhzsPd1S2+6+Iy80w7UXcTFgzqJk1+8Xw==",
+  "dgSpecHash": "i+5D97k34nlFjDBSULJs2XIMOpTceoWfFJKo5xumwsvkPRpoM9lQlee/QjwcBEdK9ydpbuDp5Ot7GIZ/tUaQcA==",
   "success": true,
   "projectFilePath": "D:\\Assignment\\CroquetFootball\\Beamable\\Beamablefootboll\\services\\footboll\\footboll.csproj",
   "expectedPackageFiles": [
@@ -66,10 +66,7 @@
     "C:\\Users\\promact\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\promact\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
     "C:\\Users\\promact\\.nuget\\packages\\unosquare.swan.lite\\2.6.2\\unosquare.swan.lite.2.6.2.nupkg.sha512",
-    "C:\\Users\\promact\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512",
-    "C:\\Users\\promact\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\promact\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\promact\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+    "C:\\Users\\promact\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512"
   ],
   "logs": [
     {

@@ -7,9 +7,9 @@ export function init(Constants) {
     "newwhite",
     "madhatter",
     "marchhare",
-    "admin",
     "cheshirecat",
     "alice",
+    "admin",
   ];
 
   /* Alternatively, you can specify a card spec for an avatar,
@@ -31,7 +31,6 @@ export function init(Constants) {
     "lights.js",
     "footballMove.js",
     "AuthService.js",
-    "Score.js",
   ];
 
   Constants.DefaultCards = [
@@ -72,7 +71,7 @@ export function init(Constants) {
         rotation: [0, -0.028453630730114733, 0, 0.9995951134825911],
         layers: ["pointer"],
         name: "football.glb",
-        behaviorModules: ["MoveFootball", "Score"],
+        behaviorModules: ["MoveFootball"],
         dataLocation:
           "3gRlAm-GbBQzHPaO8x_0KVoW1ID3DZ8OqvmdJqoXXMoMDxMTFxRdSEgBDgsCFEkSFEkEFQgWEgITSQ4ISBJIIxYtNg1WAwsQUQEdJlAxHS0iAB0pEzI-LAMXVkgECApJAAoGDgtJFQYPEgsXFQgKBgQTSQoOBBUIEQIVFAJILFY0BC1QHiRKUCwiDxYkUTMwHjgxDSw_CVIzSiMLEzQPLRAyDQULVD4vBEgDBhMGSBVKBCMjExYlNEomVjIsMik3JDMVDAEQNFQ-NhMsCA8eUCUqAxEvCAwvPiI",
         dataScale: [2.132073633812013, 2.132073633812013, 2.132073633812013],
